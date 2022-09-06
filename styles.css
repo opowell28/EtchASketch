@@ -1,0 +1,25 @@
+html {
+    background-color: gray;
+}
+
+.container {
+    display: flex;
+}
+
+.button-container {
+    padding: 20px;
+}
+
+button {
+    position: relative;
+    top: 200px;
+    border-radius: 2px;
+}
+
+.grid {
+    display: grid;
+    width: 500px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+}
